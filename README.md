@@ -13,7 +13,7 @@ npm install
 npm start
 ```
 
-## Infornações Importantes
+## Informações Importantes
 
 ### TravisCI
 O projeto está linkado com o TravisCI, e a cada atualização feita no github, os testes são executados e caso todos passem, uma rotina de build+deploy é executada e o deploy é feito no github pages.

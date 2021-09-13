@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/React-Marvel/static/js/main.d2f90624.chunk.js",
+    "main.js.map": "/React-Marvel/static/js/main.d2f90624.chunk.js.map",
+    "runtime-main.js": "/React-Marvel/static/js/runtime-main.6381b86a.js",
+    "runtime-main.js.map": "/React-Marvel/static/js/runtime-main.6381b86a.js.map",
+    "static/css/2.f1d36a8f.chunk.css": "/React-Marvel/static/css/2.f1d36a8f.chunk.css",
+    "static/js/2.43cb7332.chunk.js": "/React-Marvel/static/js/2.43cb7332.chunk.js",
+    "static/js/2.43cb7332.chunk.js.map": "/React-Marvel/static/js/2.43cb7332.chunk.js.map",
+    "index.html": "/React-Marvel/index.html",
+    "precache-manifest.8fcc3390b3f14186b3ee3686fb3b9c37.js": "/React-Marvel/precache-manifest.8fcc3390b3f14186b3ee3686fb3b9c37.js",
+    "service-worker.js": "/React-Marvel/service-worker.js",
+    "static/css/2.f1d36a8f.chunk.css.map": "/React-Marvel/static/css/2.f1d36a8f.chunk.css.map",
+    "static/media/marvel.jpg": "/React-Marvel/static/media/marvel.cc3a8cb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6381b86a.js",
+    "static/css/2.f1d36a8f.chunk.css",
+    "static/js/2.43cb7332.chunk.js",
+    "static/js/main.d2f90624.chunk.js"
+  ]
+}
